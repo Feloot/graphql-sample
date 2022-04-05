@@ -1,5 +1,10 @@
 # Sample GraphQL project with Fastify
 
+### Install
+```shell
+npm install
+```
+
 ### Run
 ```shell
 npm start
