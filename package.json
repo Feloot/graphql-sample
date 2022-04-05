@@ -1,5 +1,5 @@
 {
-  "name": "hardhat-project",
+  "name": "graphql_sample",
   "private": true,
   "scripts": {
     "start": "npx nodemon ./src/server.ts"
