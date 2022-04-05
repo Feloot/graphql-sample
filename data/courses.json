@@ -1,0 +1,25 @@
+[
+  {
+     "id": 1,
+     "name": "Brie à la truffe",
+     "priceEuro": 17
+  },
+
+  {
+     "id": 2,
+     "name": "Nuggets d'or",
+     "priceEuro": 0.03
+  },
+
+  {
+     "id": 3,
+     "name": "Spéciale natation",
+     "priceEuro": 70
+  },
+
+  {
+     "id": 4,
+     "name": "Magret du chef",
+     "priceEuro": 30
+  }
+]

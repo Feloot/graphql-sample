@@ -1,0 +1,20 @@
+{
+  "name": "hardhat-project",
+  "private": true,
+  "scripts": {
+    "start": "npx nodemon ./src/server.ts"
+  },
+  "dependencies": {
+    "@graphql-tools/schema": "^8.3.6",
+    "apollo-server-fastify": "^3.6.7",
+    "cors": "^2.8.5",
+    "fastify": "^3.28.0",
+    "graphql": "^16.3.0",
+    "notarealdb": "^0.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.23",
+    "nodemon": "^1.19.4",
+    "ts-node": "^10.7.0"
+  }
+}

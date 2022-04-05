@@ -1,0 +1,15 @@
+[
+  {
+     "id": 1,
+     "name": "Au Bon Chardel",
+     "location": "Paris",
+     "rating": 4.5
+  },
+  
+  {
+     "id": 2,
+     "name": "Chez Guigui",
+     "location": "Toulouse",
+     "rating": 5.0
+  }
+]

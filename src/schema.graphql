@@ -1,0 +1,18 @@
+type Query  {
+   test: String,
+   restaurants: [Restaurant],
+   courses: [Course]
+}
+
+type Restaurant {
+   id: ID!
+   name: String
+   location: String
+   rating: Float
+}
+
+type Course {
+   id: ID!
+   name: String
+   priceEuro: Float
+}
