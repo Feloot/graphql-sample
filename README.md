@@ -22,7 +22,14 @@ query Query {
 
 ```shell
 query Query {
-  restaurants,
-  courses
+  restaurants {
+    id,
+    name,
+    rating
+  },
+  courses {
+    name,
+    priceEuro
+  }
 }
 ```
